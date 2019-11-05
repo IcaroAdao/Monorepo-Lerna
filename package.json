@@ -1,5 +1,9 @@
 {
+	"scripts": {
+		"test": "jest"
+	},
 	"devDependencies": {
+		"jest": "^24.9.0",
 		"lerna": "^2.9.0"
 	}
 }
